@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/Zed-Thon/Scrap-Zed",
+  "repository": "https://github.com/GRThon/api",
   "env": {
     "WEBHOOK": {
       "description": "لا تغيرهــا",
